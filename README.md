@@ -14,7 +14,7 @@ Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. 
 
 - Použijte minimálně tři HTML soubory, které budou spolu provázané přes odkazy `<a href="_____.html">` tak, aby se z každé stránky dalo dostat na zbylé dvě.
 
-  - Pro odkazy navrhněte vizuál společného menu, které bude na všech stránkách stejné.
+  - Pro odkazy navrhněte vzhled a strukturu společného menu, které bude na všech stránkách stejné.
   - Jednu stránku věnujte informacím o projektu, který chcete v rámci akademie společně vytvořit. Stačí název a jeden odstavec textu.
   - Zbylé dvě stránky věnujte vám. Zmiňte na nich například vaše jméno a odkaz na GitHub účet.
 

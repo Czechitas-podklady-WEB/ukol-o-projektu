@@ -1,6 +1,6 @@
 # Úkol: O projektu
 
-Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. Stránka může být velmi jednoduchá, stačí vaše jména třeba s odkazem na GitHub a popis projektu. Přidejte nějaké stylování. Můžete (nepovinně) obsah obohatit o nějaké obrázky.
+Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. Web může být velmi jednoduchý, stačí vaše jména třeba s odkazem na GitHub a popis projektu. Přidejte nějaké stylování. Můžete (nepovinně) obsah obohatit o nějaké obrázky.
 
 ## Zadání
 

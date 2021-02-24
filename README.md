@@ -25,3 +25,7 @@ Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. 
   ![About](./zadani/about.png)
 
 - Výše je popsané minimum pro splnění úkolu. Neváhejte web jakkoliv rozšířit. Má vám primárně sloužit pro nacvičení práce v týmu, ale může z něj klidně vzniknout plnohodnotný web o webu, web o projektu. Můžete se rozepsat o tom, proč jste si dané téma vybraly. Přiložit wireframy, skici, návrhy designu. Časem doplnit odkaz na hotový projekt a jeho zdrojové kódy.
+
+### Bonus
+
+- Webové stránky vytvořte pomocí Reactu. Pro zjednodušení můžete mít jen jednu stránku a obsah skrývat a odkrývat pomocí stavu (`useState`), který budete měnit při klikání na položky v menu. Místo GitHub Pages použijte Netlify ([návod](https://www.youtube.com/watch?v=sAcJKh6n5DA)).

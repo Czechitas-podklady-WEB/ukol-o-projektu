@@ -4,7 +4,7 @@ Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. 
 
 ## Zadání
 
-- Pracujte ve dvojicích. Založte na GitHubu repozitář `o-projektu` u jedné z vás, tu druhou si pozvěte jako spolupracovnici (záložka `Settings` > `Manage access` > `Invite teams or people`).
+- Pracujte ve dvojicích. Založte na GitHubu repozitář `o-projektu` u jedné z vás, tu druhou si pozvěte jako spolupracovnici (záložka `Settings` > `Collaborators` > `Add people`).
 
   ![pozvánka](./zadani/pozvanka.png)
 
@@ -12,7 +12,7 @@ Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. 
 
   ![historie](./zadani/historie.png)
 
-- Použijte minimálně tři HTML soubory, které budou spolu provázané přes odkazy `<a href="_____.html">` tak, aby se z každé stránky dalo dostat na zbylé dvě.
+- Použijte minimálně tři HTML soubory, které budou spolu provázané přes odkazy `<a href="_____.html">` tak, aby se z každé stránky dalo dostat na zbylé dvě. (V případě použití Reactu použijte několik komponent. Viz bonus.)
 
   - Pro odkazy navrhněte vzhled a strukturu společného menu, které bude na všech stránkách stejné.
   - Jednu stránku věnujte informacím o projektu, který chcete v rámci akademie společně vytvořit. Stačí název a jeden odstavec textu.
@@ -20,7 +20,7 @@ Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. 
 
 - Styly si můžete napsat kompletně vlastní nebo vycházet z libovolného frameworku jako je například [Bootstrap](https://getbootstrap.com/).
 
-- Výsledný web zveřejněte pomocí GitHub Pages a odkaz na něj dejte do sekce `About`.
+- Výsledný web zveřejněte pomocí GitHub Pages a odkaz na něj dejte do sekce GitHub popisku `About`.
 
   ![About](./zadani/about.png)
 

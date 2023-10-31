@@ -1,10 +1,10 @@
 # Úkol: O projektu
 
-Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. Web může být velmi jednoduchý, stačí vaše jména třeba s odkazem na GitHub a popis projektu. Přidejte nějaké stylování. Můžete (nepovinně) obsah obohatit o nějaké obrázky.
+Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. Web může být velmi jednoduchý, stačí vaše jména třeba s odkazem na GitHub a popis projektu. Přidejte nějaké stylování. Můžete (nepovinně) obsah obohatit o i nějaké obrázky.
 
 ## Zadání
 
-- Pracujte ve dvojicích. Založte na GitHubu repozitář `o-projektu` u jedné z vás, tu druhou si pozvěte jako spolupracovnici (záložka `Settings` > `Collaborators` > `Add people`).
+- Pracujte ve dvojicích nebo ve trojicích, podle vašeho týmu pro závěrečný projekt. Založte na GitHubu repozitář `o-projektu` u jedné z vás, tu druhou a případně třetí si pozvěte jako spolupracovnici (záložka `Settings` > `Collaborators` > `Add people`).
 
   ![pozvánka](./zadani/pozvanka.png)
 
@@ -16,7 +16,7 @@ Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. 
 
   - Pro odkazy navrhněte vzhled a strukturu společného menu, které bude na všech stránkách stejné.
   - Jednu stránku věnujte informacím o projektu, který chcete v rámci akademie společně vytvořit. Stačí název a jeden odstavec textu.
-  - Zbylé dvě stránky věnujte vám. Zmiňte na nich například vaše jméno a odkaz na GitHub účet.
+  - Zbylé dvě nebo tři stránky, podle toho, kolik vás je, věnujte vám. Zmiňte na nich například vaše jméno a odkaz na GitHub účet.
 
 - Styly si můžete napsat kompletně vlastní nebo vycházet z libovolného frameworku jako je například [Bootstrap](https://getbootstrap.com/).
 
@@ -28,4 +28,4 @@ Vyrobte webovou stránku, kde představíte sebe a svůj závěrečný projekt. 
 
 ### Bonus
 
-- Webové stránky vytvořte pomocí Reactu. Pro zjednodušení můžete mít jen jednu stránku a obsah skrývat a odkrývat pomocí stavu (`useState`), který budete měnit při klikání na položky v menu. Místo GitHub Pages použijte Netlify ([návod](https://www.youtube.com/watch?v=sAcJKh6n5DA)).
+- Webové stránky vytvořte pomocí Reactu. Pro zjednodušení můžete mít jen jednu stránku a obsah skrývat a odkrývat pomocí stavu (`useState`), který budete měnit při klikání na položky v menu. Místo GitHub Pages použijte Netlify či jiný pokročilý hosting.

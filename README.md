@@ -12,7 +12,7 @@ V tomto úkolu nebudete používat Vite, protože s ním si GitHub Pages neporad
 
 - Jedna z vás založí lokálně nový projekt pomocí
   ```shell
-  npx ini kodim-app@latest o-aplikaci html-css-js
+  npm init kodim-app@latest o-aplikaci html-css-js
   ```
   To založí nový projekt s HTML, CSS a JavaScriptem ve složce `o-projektu`.
 
